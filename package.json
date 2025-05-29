@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@mgonetwork/mango.js": "^2.0.3",
+    "cli-progress": "^3.12.0",
+    "colors": "^1.4.0",
+    "ethers": "^6.13.4",
+    "xlsx": "^0.18.5",
+    "dotenv": "^16.4.5"
+  }
+}
